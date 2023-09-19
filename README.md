@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Je m'appelle Calvin Graf, je suis étudiant à la HEIG-VD.
+
 <!--
 **CalvinGraf1/CalvinGraf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
