@@ -3,8 +3,35 @@ Hello and welcome to my GitHub! 🚀
 This repository showcases the projects I have worked on during my software engineering studies at HEIG-VD, as well as my personal projects. Here, you'll find a variety of work ranging from system programming to web and mobile application development, algorithm optimization, and software architecture.
 
 🔍 Happy exploring!
-- [semestre 1](#semester-1)
 
+- [PRG1](#prg1--programming-1)
+- [ISD](#isd--introduction-à-la-science-des-données)
+- [SYL](#syl--systèmes-logiques)
+- [ARO](#aro--architectures-des-ordinateurs)
+- [ISI](#isi--introduction-à-la-sécurité-de-linformation)
+- [ASD](#asd--algorithmes-et-structures-de-données)
+- [PRG2](#prg2--programmation-2)
+- [RXI](#rxi--réseaux-informatiques)
+- [PIN](#pin--projet-dinformatique)
+- [BDR](#bdr--base-de-données-relationnelles)
+- [DAI](#dai--développement-dapplications-internet)
+- [POO](#poo--programmation-orientée-objet)
+- [PCO](#pco--programmation-concurrente)
+- [SYE](#sye--systèmes-dexploitation)
+- [MCR](#mcr--modèles-de-conception-réutilisables)
+- [POA](#poa--programmation-orientée-objet-avancée)
+- [PDL](#pdl--processus-de-développement-en-ingénierie-logicielle)
+- [CLD](#cld--cloud-computing)
+- [WEB](#web--technologies-web)
+- [PDG](#pdg--projet-de-groupe)
+- [AMT](#amt--applications-multi-tiers)
+- [DAA](#daa--développement-dapplications-android)
+- [SLH](#slh--sécurité-logicielle-haut-niveau)
+- [MAC](#mac--méthodes-daccès-aux-données)
+- [SDR](#sdr--systèmes-distribués-et-répartis)
+- [DMA](#dma--développement-mobile-avancée)
+- [MVP](#mvp--lancez-votre-mvp-minimum-viable-product)
+- [VTK](#vtk--visualisation-de-données-3d-avec-vtk)
 
 # 📖 Academic career
 
