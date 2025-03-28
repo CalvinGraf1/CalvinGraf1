@@ -8,7 +8,7 @@ This repository showcases the projects I have worked on during my software engin
 ## 📖 Academic career
 
 ### 🎓 **Semester 1**
-#### 🖥️ **PRG1 – Programming 1**
+#### 🖥️ [**PRG1 – Programming 1**](https://github.com/CalvinGraf1/prg1)
 | #  | Project | Languages | Grade |
 |----|---------|-----------|------|
 | 1 | [TP1 - Basic Calculator](https://github.com/monrepo/calculatrice) | Java | 5 |
